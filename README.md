@@ -4,7 +4,7 @@ Game Bot for playing T-Rex Game developed on Reinforcement Learning Algorithm. (
 
 
 
-# Dependencies
+## Dependencies
 1. Python Python 2.7.1
 2. Run pip install -r requirements.txt to 
    install dependencies.
