@@ -211,7 +211,7 @@ class NeuralNetwork(nn.Module):
         self.gamma = 0.99
         self.final_epsilon = 0.0001
         self.initial_epsilon = 0.1
-        self.number_of_iterations = 2000000
+        self.number_of_iterations = 5000000
         self.replay_memory_size = 10000
         self.minibatch_size = 32
 
@@ -367,7 +367,7 @@ def train(model, start):
         state = state_1
         iteration += 1
 
-        if iteration % 2500 == 0:
+        if iteration % 25000 == 0:
             torch.save(model, "pretrained_model/current_model_" + str(iteration) + ".pth")
 
         print("iteration:", iteration, "elapsed time:", time.time() - start, "epsilon:", epsilon, "action:",
@@ -415,7 +415,7 @@ def main(mode):
 
     if mode == 'test':
         model = torch.load(
-            'pretrained_model/current_model_40375.pth',
+            'pretrained_model/current_model_97500.pth',
             map_location='cpu' if not cuda_is_available else None
         ).eval()
 
