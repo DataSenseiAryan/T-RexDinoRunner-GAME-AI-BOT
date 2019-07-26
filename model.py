@@ -367,7 +367,7 @@ def train(model, start):
         state = state_1
         iteration += 1
 
-        if iteration % 25000 == 0:
+        if iteration % 250000 == 0:
             torch.save(model, "pretrained_model/current_model_" + str(iteration) + ".pth")
 
         print("iteration:", iteration, "elapsed time:", time.time() - start, "epsilon:", epsilon, "action:",
