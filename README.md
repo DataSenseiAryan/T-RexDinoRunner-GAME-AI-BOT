@@ -3,6 +3,9 @@
 Game Bot for playing T-Rex Game developed on Reinforcement Learning Algorithm. (Deep Q learning) 
 
 
+![](Dino.gif)
+
+
 
 ## Dependencies
 1. Python Python 2.7.1
