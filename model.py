@@ -415,7 +415,7 @@ def main(mode):
 
     if mode == 'test':
         model = torch.load(
-            'pretrained_model/current_model_97500.pth',
+            'pretrained_model/current_model_750000.pth',
             map_location='cpu' if not cuda_is_available else None
         ).eval()
 
