@@ -28,7 +28,7 @@ Game Bot for playing T-Rex Game developed on Reinforcement Learning Algorithm. (
   
 3.[Pytorch Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 
-4.[David Silva](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+4.[David Silva -RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 ## License:
 MIT License
