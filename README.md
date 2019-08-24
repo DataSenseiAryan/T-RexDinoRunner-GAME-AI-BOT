@@ -21,10 +21,13 @@ Game Bot for playing T-Rex Game developed on Reinforcement Learning Algorithm. (
 
 
 ## Credits:
-1.Neven Pičuljan [Git Repo](https://github.com/nevenp/dqn_flappy_bird) 
+1.Neven Pičuljan [Git Repo](https://github.com/nevenp/dqn_flappy_bird)
+
 2.Ravi Munde [MIT License](https://github.com/Paperspace/DinoRunTutorial/blob/master/LICENSE)
   Copyright (c) 2018 Ravi Munde 
+  
 3. [Pytorch Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+
 4. [David Silva](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 ## License:
