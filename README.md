@@ -1,6 +1,6 @@
 # Reinforcement Learning -AI GameBot for T-Rex Game
 
-**Game Bot for playing T-Rex Game developed on Reinforcement Learning Algorithm. (Deep Q learning) 
+**Game Bot for playing T-Rex Game developed on Reinforcement Learning Algorithm. (Deep Q learning)**
 
 
 ![](Dino.gif)
