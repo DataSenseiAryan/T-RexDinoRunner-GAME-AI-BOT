@@ -40,3 +40,6 @@
 MIT License
 Copyright (c) 2019 Aryan Chaudhary
 [MIT](https://github.com/aryanc55/T-RexDinoRunner-GAME-AI-BOT/blob/master/LICENSE)
+
+
+[![HitCount](http://hits.dwyl.io/aryanc55/https://githubcom/aryanc55/T-RexDinoRunner-GAME-AI-BOT.svg)](http://hits.dwyl.io/aryanc55/https://githubcom/aryanc55/T-RexDinoRunner-GAME-AI-BOT)
